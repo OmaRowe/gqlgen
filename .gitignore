@@ -12,7 +12,8 @@
 
 /.vscode
 .idea/
-*.test
+ .test
 *.out
 gqlgen
 *.exe
+ 
